@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/ninie/OneDrive/桌面/GoblinDanceParty5.6/Content/chiptune.mp3</SourceFile>
+  <SourceTime>2025-05-16T16:33:08.5809014-04:00</SourceTime>
+  <DestFile>C:/Users/ninie/OneDrive/桌面/GoblinDanceParty5.6/Content/bin/DesktopGL/Content/chiptune.xnb</DestFile>
+  <DestTime>2025-05-16T17:20:27.0093348-04:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2022-07-26T07:44:56-04:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2022-07-26T07:44:56-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/ninie/OneDrive/桌面/GoblinDanceParty5.6/Content/bin/DesktopGL/Content/chiptune.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>
